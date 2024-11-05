@@ -1,6 +1,6 @@
 import './timeline.css';
-
 import React from 'react'
+import VisionBg from '../../assets/images/vision_Bg.png';
 
 export default function timeline() {
     return (
@@ -9,6 +9,7 @@ export default function timeline() {
             <div className="schedule">
                 {/* Tuesday Schedule */}
                 <div className="day">
+                    {/* <img src={VisionBg} alt='bg' className='vsn_bg' /> */}
                     <h2>Tuesday, November 12</h2>
                     <table className="schedule-table">
                         <thead>

@@ -30,11 +30,11 @@
   }
   
   .card {
-    background: linear-gradient(180deg, rgba(0,255,153,1) 0%, rgba(2,0,36,1) 100%);
+    background: linear-gradient(180deg, rgba(2,0,36,1) 60%, rgba(0,255,153,1) 145%);
     border: 2px solid #00FF99;
     border-radius: 8px;
     padding: 1.5rem;
-    width: 200px;
+    width: 400px;
     text-align: center;
     transition: transform 0.3s ease-in-out;
   }
@@ -44,12 +44,15 @@
   }
   
   .icon {
-    font-size: 3rem;
     margin-bottom: 1rem;
+  }
+
+  .vsn_img {
+    width: 50px;
   }
   
   h3 {
-    font-size: 1.1rem;
+    font-size: 1.5rem;
     margin: 0;
   }
   

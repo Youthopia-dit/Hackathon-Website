@@ -34,6 +34,9 @@ h2 {
 
 .day h2 {
     color: white;
+    background: linear-gradient(180deg, #020024 60%, #00ff99 170%);
+    border-radius: 5px;
+    padding-left: 10px;
 }
 
 .schedule-table {
@@ -50,12 +53,12 @@ h2 {
     text-align: center;
     /* color: #00ff99;
     z-index: 2; */
-    color: white;
 }
 .schedule-table td {
     padding: 12px;
     font-size: 1rem;
     text-align: center;
+    justify-content: left;
     color: #b0c7df;
 }
 
@@ -71,7 +74,7 @@ h2 {
 .timeline-header {
     border-bottom: 1px solid #00ff99;
     box-shadow: 0 4px 15px rgba();
-    background: linear-gradient(180deg, rgba(0, 255, 153, 1) 0%, rgba(2, 0, 36, 1) 100%);
+    color: #80E786;
     /* z-index: -1;
     */
 }
