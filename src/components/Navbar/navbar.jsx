@@ -17,9 +17,10 @@ export default function navbar() {
         </div>
 
     </div>
+    
 
 
-    <div className="content">
+    {/* <div className="content">
         <section id="home">
           <h1>Home Section</h1>
           <p>This is the home section content.</p>
@@ -36,7 +37,7 @@ export default function navbar() {
           <h1>Contact Section</h1>
           <p>This is the contact section content.</p>
         </section>
-      </div>
+      </div> */}
     
     
     

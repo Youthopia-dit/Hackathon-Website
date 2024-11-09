@@ -6,12 +6,8 @@
     font-family: Arial, sans-serif;
     color: #ffffff;
     background-color: #03081B;
-    /* background-color: red; */
     padding: 20px;
-    /* border-radius: 50px; */
-    width: 96vw;
-    /* border: 4px solid;
-    border-image: linear-gradient(to bottom, #127AE4, #80E786) 1; */
+    width: 100vw;
 }
 .day {
     margin-bottom: 30px;
