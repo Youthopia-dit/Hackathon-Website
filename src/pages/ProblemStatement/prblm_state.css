@@ -1,0 +1,137 @@
+.problem-statement-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #0e1726;
+    padding: 20px;
+    border: 2px solid #00ffff;
+    width: 96vw;
+    height: fit-content;
+    margin: 0 auto;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+}
+
+.header {
+    border: solid 5px #00ffff;
+    font-size: 24px;
+    padding: 15px 15px 15px;
+    font-weight: bold;
+    color: #00ffff;
+    margin-bottom: 20px;
+}
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    border: solid 2px #00ffff;
+}
+
+.header-row {
+    background-color: #1f2d40;
+    color: #00ffff;
+    font-weight: bold;
+}
+
+.row {
+    display: flex;
+    border-bottom: 1px solid #00ffff;
+}
+
+.cell {
+    flex: 1;
+    padding: 10px;
+    text-align: center;
+    border-right: 1px solid #00ffff;
+    width: 20%;
+}
+
+.row .cell:last-child {
+    border-right: none;
+}
+
+.row:hover {
+    background-color: #25354d;
+}
+
+.cell:first-child {
+    color: #00ffff;
+    font-weight: bold;
+    
+}
+.cell-content{
+    width: 80%;
+}
+
+.description-cell {
+    color: #00ffff;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.description-cell:hover {
+    color: #00ffcc;
+}
+.problem-details {
+    display: flex;
+    flex-direction: column;
+    align-self: left;
+    background-color: #0e1726;
+    padding: 1rem;
+    border: 5px solid #00ffff;
+    width: 42vw;
+    margin: 10px auto;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+}
+
+.problem-details .row {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5rem;
+    border-bottom: 1px solid #00ffff;
+}
+
+.problem-details .row:last-child {
+    border-bottom: none; /* Remove border for the last row */
+}
+
+.problem-details .cell {
+    display: grid;
+    padding: 0.5rem;
+    text-align: left;
+}
+
+/* Optional: Define a header row for bold text */
+.problem-details .header {
+    font-weight: bold;
+    background-color: #1b2a41;
+}
+
+
+/* Modal Styles */
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-content {
+    background-color: #ffffff00;
+    padding: 20rem;
+    border-radius: 8px;
+    text-align: center;
+    position: relative;
+}
+
+.close-modal-button {
+    margin-top: -20px;
+    padding: 8px 16px;
+    cursor: pointer;
+}
