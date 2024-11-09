@@ -1,4 +1,5 @@
-
+// import './App.css'
+import Landingpage from './components/landingpage';
 import './App.css'
 import Navbar from './components/Navbar/navbar';
 import {BrowserRouter,Routes,Route} from "react-router-dom"
@@ -15,6 +16,7 @@ function App() {
     <Route path="/Navbar" element={<Navbar/>}/>
     <Route path="/Visioncard" element={<Visioncard/>}/>
     <Route path="/Timeline" element={<Timeline/>}/>
+    <Route path="/landingpage" element={<Landingpage />} />
 
    </Routes>
    </BrowserRouter>
