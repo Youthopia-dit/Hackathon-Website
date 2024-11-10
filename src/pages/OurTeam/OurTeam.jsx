@@ -1,10 +1,12 @@
 import "./OurTeam.css";
 import TeamCard from "./TeamCard";
 import TeamData from "./details.json";
+import Navbar from "../../components/Navbar/navbar";
 
 function OurTeam() {
   return (
     <div className="fullpage">
+      <Navbar />
       <h1 className="topheading">Our Team</h1>
       {Object.keys(TeamData).map((title) => (
         <>

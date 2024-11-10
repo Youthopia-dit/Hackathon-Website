@@ -1,52 +1,48 @@
 .navbar {
-    display: flex;
-    justify-content: space-between;
-    padding: 10px 20px;
-    background-color: #0e1630; 
-    border-bottom: 2px solid #46fa94;
-  }
-  
-  .logo-img {
-    width: 50px; /* Adjust size as needed */
-    height: auto;
-  }
-  
-  /* Right side: Buttons */
-  .nav-right {
-    display: flex;
-    gap: 10px; /* Space between the buttons */
-  }
-  
-  /* Outline Button Styling */
-  .btn-outline {
-    padding: 10px 20px;
-    color: white;
-    border: 2px solid #2651fb;
-    background: transparent;
-    border-radius:  50px;
-    font-size: 1rem;
-    cursor: pointer;
-    transition: background-color 0.3s ease, color 0.3s ease;
-  }
-  
-  /* .btn-outline:hover {
-    background-color: #2651fb;
-    color: white;
-  }
-   */
-  /* Filled Button Styling */
-  .btn-filled {
-    padding: 10px 20px;
-    color: white;
-    border: none;
-    background: linear-gradient(to right, #46fa94, #429eeb); /* Gradient background */
-    border-radius: 50px;
-    font-size: 1rem;
-    cursor: pointer;
-    transition: opacity 0.3s ease;
-  }
-  
-  .btn-filled:hover {
-    opacity: 0.9;
-  }
-  
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 0;
+  width: 99vw;
+  background-color: #0e1630;
+  border-bottom: 2px solid #46fa94;
+}
+
+.logo-img {
+  width: 50px;
+  height: auto;
+}
+
+/* Right side: Buttons */
+.nav-right {
+  display: flex;
+  gap: 10px;
+  /* Space between the buttons */
+}
+
+/* Outline Button Styling */
+.btn-outline {
+  padding: 10px 20px;
+  color: white;
+  border: 2px solid #2651fb;
+  background: transparent;
+  border-radius: 50px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.btn-filled {
+  padding: 10px 20px;
+  color: white;
+  border: none;
+  background: linear-gradient(to right, #46fa94, #429eeb);
+  /* Gradient background */
+  border-radius: 50px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: opacity 0.3s ease;
+}
+
+.btn-filled:hover {
+  opacity: 0.9;
+}
