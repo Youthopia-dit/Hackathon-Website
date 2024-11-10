@@ -1,5 +1,4 @@
 .fullpage{
-    
     width: 100vw;
     background-color: black;
     background-image: url(../../assets/back2.png);
@@ -12,6 +11,7 @@
 .topheading{
     text-align: center;
     font-size: 75px;
+    color:white;
 }
 .team{
     margin-left: 50px;
@@ -36,8 +36,6 @@
     width: 270px;
     object-fit: cover;
     z-index: 10;
-    /* border-radius: 8px; */
-    
 }
 
 .teamCard .photo {
