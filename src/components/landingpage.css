@@ -1,80 +1,92 @@
-.main{
+.main {
 
     height: 100vh;
     width: 100%;
     display: flex;
     flex-direction: column;
-    background-color:  #03081B; 
+    background-color: #03081B;
     background-image: url('../assets/bg1.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     justify-content: center;
     align-items: center;
-    
 }
-.text{
+
+.text {
     text-align: center;
     font-size: 5vh;
     font-weight: 400;
-    color:#66D2B9;
-    font-family: Nico Moji; 
+    color: #66D2B9;
+    font-family: Nico Moji;
     margin-top: 120px;
     display: flex;
     justify-content: center;
 }
-.text2{
+
+.text2 {
     display: flex;
     justify-content: center;
     font-size: 20px;
     margin: 40px;
+    color:white;
 }
+
 .main-text {
     display: flex;
     justify-content: center;
-    
- 
+
+
 }
-.img{
+
+.img {
     width: 60vw;
     /* height: 20vh; */
 
 }
-.bulign{
+
+.bulign {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     /* margin: 20px; */
-   margin-top: 10px;
-   
+    margin-top: 10px;
+
 }
-.button{
-    height: 7vh;
-    width: 15vw;
+
+.button {
+    height: 4vh;
+    width: 10vw;
     margin: 0 30px;
     border-radius: 5vh;
     padding: 8px;
     font-size: 20px;
+    background-color:transparent;
+    text-align: center;
+    color:white;
+    border: 1px solid #66D2B9;
 }
-.bulign2{
+
+.bulign2 {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     /* margin: 20px; */
-   /* margin-top: 5vh; */
-   
+    /* margin-top: 5vh; */
+
 }
 
-.info{
+.info {
     text-align: center;
     font-size: 2vh;
     padding: 30px;
     margin: 0 15px;
     font-weight: bold;
-    
+    color: white;
+
 }
 
-.button2{
+.button2 {
     height: 8vh;
     width: 30vw;
     border-radius: 9vh;
@@ -82,40 +94,45 @@
     background: linear-gradient(89.14deg, #80E786 2.22%, #127AE4 184.38%);
     font-size: 3vh;
     padding: 5px;
-    color:#03081B;
-    font-weight:bold;
+    color: #03081B;
+    font-weight: bold;
 }
-.wavy{
-   position: relative;
-   top: 10vh;
+
+.wavy {
+    position: relative;
+    top: 10vh;
 }
-#wave{
-    width: 100vw; 
+
+#wave {
+    width: 100vw;
     height: auto;
     position: relative;
-    z-index:1;
+    z-index: 1;
     top: -2vh;
 
 }
-#wave1{
+
+#wave1 {
     position: absolute;
-    top: -12vh;  
-    right: 0; 
+    top: -12vh;
+    right: 0;
     width: 70vw;
     height: auto;
 
 }
-#wave2{
+
+#wave2 {
     position: absolute;
-    left:10px;
+    left: 10px;
     top: -13vh;
     width: 30vw;
-  
-    
+
+
 }
-#wave3{
+
+#wave3 {
     position: absolute;
-    left:15vw;
+    left: 15vw;
     top: -10vh;
     width: 50vw;
 }
@@ -130,51 +147,64 @@
         font-size: 6px;
     }
 } */
-@media (max-width: 768px){
-    .button{
+@media (max-width: 768px) {
+    .button {
         height: 7vh;
         width: 20vw;
     }
-    .info{
+
+    .info {
         font-size: 10px;
     }
-    .button2{
+
+    .button2 {
         width: 49vw;
     }
-    #wave{
+
+    #wave {
         top: -5vh;
     }
 }
-@media (max-width: 425px){
-    .img{
+
+@media (max-width: 425px) {
+    .img {
         width: 80vw;
     }
-    .text2{
-        font-size: 12px;;
+
+    .text2 {
+        font-size: 12px;
+        ;
     }
-    .button{
+
+    .button {
         height: 8vh;
         width: 25vw;
         font-size: 12px;
     }
-    .button2{
+
+    .button2 {
         font-size: 12px;
     }
-    #wave{
+
+    #wave {
         top: -8vh;
     }
 }
-@media (max-width: 320px){
-    #wave{
+
+@media (max-width: 320px) {
+    #wave {
         top: -7vh;
     }
-    #wave2{
+
+    #wave2 {
         top: -10vh;
     }
-    #wave3{
+
+    #wave3 {
         top: -10vh;
     }
-    #wave1{
+
+    #wave1 {
         top: -11vh;
     }
 }

@@ -1,7 +1,8 @@
-/* #timeline-text{
-    text-align: center;
+.timeline{
+    font-size: 2.5rem;
     color: white;
-} */
+    text-align: center;
+}
 .schedule {
     font-family: Arial, sans-serif;
     color: #ffffff;

@@ -1,5 +1,6 @@
 import './prblm_state.css';
 import React, { useState } from 'react';
+import Navbar from '../../components/Navbar/navbar';
 
 const problemStatements = [
     {
@@ -48,6 +49,7 @@ export default function PrblmState() {
 
     return (
         <>
+        <Navbar/>
             <div className="problem-statement-container">
                 <h1 className="header">PROBLEM STATEMENT</h1>
                 <div className="table">

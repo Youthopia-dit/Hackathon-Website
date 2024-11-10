@@ -7,9 +7,9 @@ export default function visioncard() {
     <>
 
 <div className="vision-container">
-      <h2 className="vision-title">VISION</h2>
+      <div className="vision-title">VISION</div>
       <p className="vision-description">
-        <strong>“Hack the Hills”</strong> – Innovate from Height, a <span>24-hour hackathon,</span> with the theme 
+        <strong>“Hack the Hills”</strong> – Innovate from Height, a <span>24-hour hackathon,</span> with the theme <br></br>
         <strong><span>“SUSTAINABLE TECH FOR THE FUTURE IMPACT”</span></strong> focused on empowering a community of developers and innovators.
         Through this Hackathon, we aim to spotlight and support creative ideas for real-life problems.
       </p>

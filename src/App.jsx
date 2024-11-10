@@ -7,13 +7,9 @@ import Visioncard from './components/VisionCards/visioncard';
 import Timeline from  './components/TimelineTable/timeline';
 import PrblmState from './pages/ProblemStatement/prblm_state';
 import Homepage from './pages/Home/home';
+import OurTeam from './pages/OurTeam/OurTeam';
 
 function App() {
-
-
-
-  
-
   return (
    <>
    <BrowserRouter>
@@ -23,7 +19,8 @@ function App() {
     <Route path="/Timeline" element={<Timeline/>}/>
     <Route path="/PrblmState" element={<PrblmState/>}/>
     <Route path="/landingpage" element={<Landingpage />} />
-    <Route path="/homepage" element={<Homepage />} />
+    <Route path="/" element={<Homepage />} />
+    <Route path="/OurTeam" element={<OurTeam />} />
    </Routes>
    </BrowserRouter>
    

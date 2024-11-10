@@ -5,7 +5,7 @@ import React from 'react'
 export default function timeline() {
     return (
         <>
-           {/* <h2 id="timeline-text">TIMELINE</h2> */}
+           <div className="timeline">TIMELINE</div>
             <div className="schedule">
                 {/* Tuesday Schedule */}
                 <div className="day">
