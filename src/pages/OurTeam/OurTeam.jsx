@@ -7,7 +7,8 @@ function OurTeam() {
   return (
     <div className="fullpage">
       <Navbar />
-      <h1 className="topheading">Our Team</h1>
+      <div className="topheading-container">
+      <div className="topheading">Our Team</div></div>
       {Object.keys(TeamData).map((title) => (
         <>
           <div className="heading">{title}</div>

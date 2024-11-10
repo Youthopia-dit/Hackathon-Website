@@ -15,7 +15,7 @@ function landingpage() {
         <div className="main">
             <div className="text">2024</div>
             <div className="main-text"><img className="img" src={Hack} /></div>
-            <div className="text2">Hack the change, Sustain the World</div>
+            <div className="text2">Hack the Change, Sustain the World</div>
             <div className="bulign">
                 <div className="button">WHEN?</div>
                 <div className="button">WHERE?</div>

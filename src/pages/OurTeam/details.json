@@ -32,10 +32,7 @@
             "image"  :"https://csg100320016f689007.blob.core.windows.net/hackathon/Garvit.jpg",
             "name" : "Garvit Maan Singh"
         },
-        "Anant" : {
-            "image"  :"https://csg100320016f689007.blob.core.windows.net/hackathon/Anant.jpg",
-            "name" : "Anant"
-        },
+       
         "Anubhav" : {
             "image"  :"https://csg100320016f689007.blob.core.windows.net/hackathon/Anubhav.jpg",
             "name" : "Anubhav"

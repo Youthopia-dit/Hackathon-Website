@@ -35,7 +35,7 @@ export default function visioncard() {
             <div className="icon">
               🔄
             </div>
-            <h3>Streamline Integration</h3>
+            <h3>Streamlined Integration</h3>
           </div>
         </div>
       </div>

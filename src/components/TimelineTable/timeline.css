@@ -2,6 +2,7 @@
     font-size: 2.5rem;
     color: white;
     text-align: center;
+    font-family: "K2D";
 }
 .schedule {
     font-family: Arial, sans-serif;
@@ -10,23 +11,25 @@
     padding: 20px;
     /* width: 100vw; */
 }
+
 .day {
     margin-bottom: 30px;
     padding: 10px;
     border-radius: 8px;
     background-color: #03081B;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
-    border: 4px solid;
-    border-radius: 50px;
-    border-image: linear-gradient(to bottom, #127AE4, #80E786) 1;
+    box-shadow: 0px 0px 10px rgb(114, 112, 112);
+    border: 3px solid #82E79A;
+    border-radius: 10px;
+    margin-right: 10px;
 }
 h2 {
     color: #00ff99;
     font-size: 1.5rem;
     margin-bottom: 10px;
     text-align: left;
-    border-bottom: 2px solid #00ff99;
+    border-bottom: 1px solid #00ff99;
     padding-bottom: 5px;
+    font-family: "K2D";
 }
 
 .day h2 {
@@ -43,17 +46,20 @@ h2 {
   } */
 .schedule-table th {
     padding: 10px;
-    font-size: 1rem;
+    font-size: 1.2rem;
     text-align: center;
     /* color: #00ff99;
     z-index: 2; */
     color: white;
+    font-family: "K2D";
+
 }
 .schedule-table td {
     padding: 12px;
-    font-size: 1rem;
+    font-size: 1.2rem;
     text-align: center;
     color: #b0c7df;
+    font-family: "Leelawadee UI";
 }
 
 /* .schedule-table tbody tr {
@@ -68,9 +74,7 @@ h2 {
 .timeline-header {
     border-bottom: 1px solid #00ff99;
     box-shadow: 0 4px 15px rgba();
-    background: linear-gradient(180deg, rgba(0, 255, 153, 1) 0%, rgba(2, 0, 36, 1) 100%);
-    /* z-index: -1;
-    */
+    font-family: "K2D";
 }
 
 .schedule-table td:first-child {
