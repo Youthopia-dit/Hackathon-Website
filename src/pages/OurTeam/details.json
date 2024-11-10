@@ -1,87 +1,111 @@
 {
     "Coordinators": {
-        "A" : {
-            "image"  :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYWYHxXmMugoF3_Rcc3h40FjqS1wt59vf04A&s",
-            "name" : "abc"
+        "Paras Sehgal" : {
+            "image"  :"https://csg100320016f689007.blob.core.windows.net/hackathon/paras_sehgal.jpg",
+            "name" : "Paras Sehgal"
         },
-        "B" : {
-            "image"  :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYWYHxXmMugoF3_Rcc3h40FjqS1wt59vf04A&s",
-            "name" : "def"
+        "Abdullah Aziz" : {
+            "image"  :"https://csg100320016f689007.blob.core.windows.net/hackathon/abdullah_aziz.jpg",
+            "name" : "Abdullah Aziz"
         },
-        "C" : {
-            "image"  :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYWYHxXmMugoF3_Rcc3h40FjqS1wt59vf04A&s",
-            "name" : "ghi"
+        "Garima Agarwal" : {
+            "image"  :"https://csg100320016f689007.blob.core.windows.net/hackathon/Garima_agarwal.jpg",
+            "name" : "Garima Agarwal"
         },
-        "D" : {
-            "image"  :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYWYHxXmMugoF3_Rcc3h40FjqS1wt59vf04A&s",
-            "name" : ""
+        "Palak Lohumi" : {
+            "image"  :"https://csg100320016f689007.blob.core.windows.net/hackathon/Palak_lohumi.jpg",
+            "name" : "Palak Lohumi"
         },
-        "E" : {
-            "image"  :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYWYHxXmMugoF3_Rcc3h40FjqS1wt59vf04A&s",
-            "name" : ""
+        "Tanya" : {
+            "image"  :"https://csg100320016f689007.blob.core.windows.net/hackathon/tanya.jpg",
+            "name" : "Tanya"
         },
-        "F" : {
-            "image"  :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYWYHxXmMugoF3_Rcc3h40FjqS1wt59vf04A&s",
-            "name" : ""
+        "Rudraksh Gupta" : {
+            "image"  :"https://csg100320016f689007.blob.core.windows.net/hackathon/Rudraksh.jpg",
+            "name" : "Rudraksh Gupta"
         },
-        "G" : {
-            "image"  :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYWYHxXmMugoF3_Rcc3h40FjqS1wt59vf04A&s",
-            "name" : ""
+        "Angela Paul" : {
+            "image"  :"https://csg100320016f689007.blob.core.windows.net/hackathon/Angela.jpg",
+            "name" : "Angela Paul"
         },
-        "H" : {
-            "image"  :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYWYHxXmMugoF3_Rcc3h40FjqS1wt59vf04A&s",
-            "name" : ""
+        "Garvit Maan Singh" : {
+            "image"  :"https://csg100320016f689007.blob.core.windows.net/hackathon/Garvit.jpg",
+            "name" : "Garvit Maan Singh"
         },
-        "I" : {
-            "image"  :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYWYHxXmMugoF3_Rcc3h40FjqS1wt59vf04A&s",
-            "name" : ""
+        "Anant" : {
+            "image"  :"https://csg100320016f689007.blob.core.windows.net/hackathon/Anant.jpg",
+            "name" : "Anant"
         },
-        "J" : {
-            "image"  :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYWYHxXmMugoF3_Rcc3h40FjqS1wt59vf04A&s",
-            "name" : ""
+        "Anubhav" : {
+            "image"  :"https://csg100320016f689007.blob.core.windows.net/hackathon/Anubhav.jpg",
+            "name" : "Anubhav"
+        },
+        "Krishna Sharma" : {
+            "image"  :"https://csg100320016f689007.blob.core.windows.net/hackathon/krishna.jpg",
+            "name" : "Krishna Sharma"
         }
         
     }, 
     "Crew" : {
-        "Q" : {
-            "image"  :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYWYHxXmMugoF3_Rcc3h40FjqS1wt59vf04A&s",
-            "name" : ""
+        "Shubham" : {
+            "image"  :"https://csg100320016f689007.blob.core.windows.net/hackathon/shubham.jpg",
+            "name" : "Shubham"
         },
-        "W" : {
-            "image"  :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYWYHxXmMugoF3_Rcc3h40FjqS1wt59vf04A&s",
-            "name" : ""
+        "Ayush Bhardwaj" : {
+            "image"  :"https://csg100320016f689007.blob.core.windows.net/hackathon/ayush_bhardwaj.jpg",
+            "name" : "Ayush Bhardwaj"
         },
-        "E" : {
-            "image"  :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYWYHxXmMugoF3_Rcc3h40FjqS1wt59vf04A&s",
-            "name" : ""
+        "Aanjaney" : {
+            "image"  :"https://csg100320016f689007.blob.core.windows.net/hackathon/aanjaney.jpg",
+            "name" : "Aanjaney"
         },
-        "R" : {
-            "image"  :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYWYHxXmMugoF3_Rcc3h40FjqS1wt59vf04A&s",
-            "name" : ""
+        "Ashi Verma" : {
+            "image"  :"https://csg100320016f689007.blob.core.windows.net/hackathon/Ashi_verma.jpg",
+            "name" : "Ashi Verma"
         },
-        "T" : {
-            "image"  :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYWYHxXmMugoF3_Rcc3h40FjqS1wt59vf04A&s",
-            "name" : ""
+        "Dishita" : {
+            "image"  :"https://csg100320016f689007.blob.core.windows.net/hackathon/Dishita.jpg",
+            "name" : "Dishita"
         },
-        "Y" : {
-            "image"  :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYWYHxXmMugoF3_Rcc3h40FjqS1wt59vf04A&s",
-            "name" : ""
+        "Divyansh" : {
+            "image"  :"https://csg100320016f689007.blob.core.windows.net/hackathon/Divyansh.jpg",
+            "name" : "Divyansh"
         },
-        "U" : {
-            "image"  :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYWYHxXmMugoF3_Rcc3h40FjqS1wt59vf04A&s",
-            "name" : ""
+        "Kashish Goel" : {
+            "image"  :"https://csg100320016f689007.blob.core.windows.net/hackathon/kashish_goel.jpg",
+            "name" : "Kashish Goel"
         },
-        "I" : {
-            "image"  :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYWYHxXmMugoF3_Rcc3h40FjqS1wt59vf04A&s",
-            "name" : ""
+        "Navneet" : {
+            "image"  :"https://csg100320016f689007.blob.core.windows.net/hackathon/navneet.jpg",
+            "name" : "Navneet"
         },
-        "O" : {
-            "image"  :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYWYHxXmMugoF3_Rcc3h40FjqS1wt59vf04A&s",
-            "name" : ""
+        "Suhaima" : {
+            "image"  :"https://csg100320016f689007.blob.core.windows.net/hackathon/Suhaima.jpg",
+            "name" : "Suhaima"
         },
-        "P" : {
-            "image"  : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYWYHxXmMugoF3_Rcc3h40FjqS1wt59vf04A&s",
-            "name" : ""
+        "Pratibha" : {
+            "image"  : "https://csg100320016f689007.blob.core.windows.net/hackathon/Pratibha.jpg",
+            "name" : "Pratibha"
+        },
+        "Dhruv Garg" : {
+            "image"  :"https://csg100320016f689007.blob.core.windows.net/hackathon/dhruv.jpg",
+            "name" : "Dhruv Garg"
+        },
+        "Aryan Verma" : {
+            "image"  :"https://csg100320016f689007.blob.core.windows.net/hackathon/aryan.jpg",
+            "name" : "Aryan Verma"
+        },
+        "Aaron" : {
+            "image"  :"https://csg100320016f689007.blob.core.windows.net/hackathon/Aaron.jpg",
+            "name" : "Aaron"
+        },
+        "Yamini" : {
+            "image"  :"https://csg100320016f689007.blob.core.windows.net/hackathon/yamini.jpg",
+            "name" : "Yamini"
+        },
+        "Mohit" : {
+            "image"  :"https://csg100320016f689007.blob.core.windows.net/hackathon/mohit.jpg",
+            "name" : "Mohit"
         }
     }
 }
