@@ -2,10 +2,15 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: #0e1726;
+    /* background-color: #0e1726; */
+    background-image: url(../../assets/bg1.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-color: black;
     padding: 20px;
     width: 96vw;
-    height: fit-content;
+    height: 100%;
     margin: 0 auto;
     color: #ffffff;
     font-family: Arial, sans-serif;

@@ -45,12 +45,16 @@
 
 .bulign {
     display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    margin-top: 10px;
+    flex-direction: column;
+    /* justify-content: space-between; */
+    align-items: center;
+    /* margin-top: 10px; */
 
 }
-
+.venue{
+    display: flex;
+    flex-direction: row;
+}
 .button {
     height: 4vh;
     width: 10vw;
@@ -67,17 +71,18 @@
 
 .bulign2 {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: space-between;
+    align-items: center;
 }
 
 .info {
-    text-align: center;
     font-size: 2.3vh;
     padding: 15px;
     margin-bottom: 40px;
     color: white;
     font-family: "K2D";
+    
 
 }
 
@@ -92,6 +97,7 @@
     padding: 5px;
     color: #03081B;
     font-weight: bold;
+    margin-top: 5vh;
 }
 
 .wavy {
