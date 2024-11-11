@@ -81,6 +81,30 @@
             "image"  :"https://csg100320016f689007.blob.core.windows.net/hackathon/Aaron.jpg",
             "name" : "Aaron"
         }
+        },
+        "Anjali" : {
+            "image"  :"https://csg100320016f689007.blob.core.windows.net/hackathon/anjali.jpg",
+            "name" : "Anjali"
+        },
+        "Bhavesh" : {
+            "image"  :"https://csg100320016f689007.blob.core.windows.net/hackathon/bhavesh.jpg",
+            "name" : "Bhavesh"
+        },
+        "Anas" : {
+            "image"  :"https://csg100320016f689007.blob.core.windows.net/hackathon/anas.jpg",
+            "name" : "Anas"
+        },
+        "Siddharth" : {
+            "image"  :"https://csg100320016f689007.blob.core.windows.net/hackathon/siddharth.jpg",
+            "name" : "Siddharth"
+        },
+        "Harsh Mowade" : {
+            "image"  :"https://csg100320016f689007.blob.core.windows.net/hackathon/harsh_mowade.jpg",
+            "name" : "Harsh Mowade"
+        },
+        "Suraj Poddar" : {
+            "image"  :"https://csg100320016f689007.blob.core.windows.net/hackathon/suraj_poddar.jpg",
+            "name" : "Suraj Poddar"
     
     }
 }
