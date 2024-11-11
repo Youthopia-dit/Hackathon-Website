@@ -16,7 +16,7 @@
             "image"  :"https://csg100320016f689007.blob.core.windows.net/hackathon/Palak_lohumi.jpg",
             "name" : "Palak Lohumi"
         },
-        "Tanya" : {
+        "Tanya Yadav" : {
             "image"  :"https://csg100320016f689007.blob.core.windows.net/hackathon/tanya.jpg",
             "name" : "Tanya"
         },
@@ -68,41 +68,19 @@
             "image"  :"https://csg100320016f689007.blob.core.windows.net/hackathon/Divyansh.jpg",
             "name" : "Divyansh"
         },
-        "Kashish Goel" : {
-            "image"  :"https://csg100320016f689007.blob.core.windows.net/hackathon/kashish_goel.jpg",
-            "name" : "Kashish Goel"
-        },
         "Navneet" : {
             "image"  :"https://csg100320016f689007.blob.core.windows.net/hackathon/navneet.jpg",
             "name" : "Navneet"
         },
-        "Suhaima" : {
-            "image"  :"https://csg100320016f689007.blob.core.windows.net/hackathon/Suhaima.jpg",
-            "name" : "Suhaima"
-        },
-        "Pratibha" : {
-            "image"  : "https://csg100320016f689007.blob.core.windows.net/hackathon/Pratibha.jpg",
-            "name" : "Pratibha"
-        },
+       
         "Dhruv Garg" : {
             "image"  :"https://csg100320016f689007.blob.core.windows.net/hackathon/dhruv.jpg",
             "name" : "Dhruv Garg"
         },
-        "Aryan Verma" : {
-            "image"  :"https://csg100320016f689007.blob.core.windows.net/hackathon/aryan.jpg",
-            "name" : "Aryan Verma"
-        },
         "Aaron" : {
             "image"  :"https://csg100320016f689007.blob.core.windows.net/hackathon/Aaron.jpg",
             "name" : "Aaron"
-        },
-        "Yamini" : {
-            "image"  :"https://csg100320016f689007.blob.core.windows.net/hackathon/yamini.jpg",
-            "name" : "Yamini"
-        },
-        "Mohit" : {
-            "image"  :"https://csg100320016f689007.blob.core.windows.net/hackathon/mohit.jpg",
-            "name" : "Mohit"
         }
+    
     }
 }
