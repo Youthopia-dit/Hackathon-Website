@@ -40,8 +40,7 @@
         "Krishna Sharma" : {
             "image"  :"https://csg100320016f689007.blob.core.windows.net/hackathon/krishna.jpg",
             "name" : "Krishna Sharma"
-        }
-        
+        }   
     }, 
     "Crew" : {
         "Shubham" : {
@@ -80,7 +79,6 @@
         "Aaron" : {
             "image"  :"https://csg100320016f689007.blob.core.windows.net/hackathon/Aaron.jpg",
             "name" : "Aaron"
-        }
         },
         "Anjali" : {
             "image"  :"https://csg100320016f689007.blob.core.windows.net/hackathon/anjali.jpg",
@@ -105,6 +103,6 @@
         "Suraj Poddar" : {
             "image"  :"https://csg100320016f689007.blob.core.windows.net/hackathon/suraj_poddar.jpg",
             "name" : "Suraj Poddar"
-    
+        }
     }
 }
