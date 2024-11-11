@@ -3,8 +3,9 @@
     width: 100vw;
     display: flex;
     flex-direction: column;
-    background-color: #03081B;
-    background-image: url('../assets/bg1.png');
+    background-color: black;
+    background-image: url('../assets/Background.png');
+    /* background-image: url('../assets/bg1.png'); */
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
